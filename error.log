@@ -1035,3 +1035,76 @@ INFO [11-03|16:07:12.967] 🔗 block reached canonical chain          number=114
 INFO [11-03|16:07:12.967] 🔨 mined potential block                  number=121 hash=b26455..8f4b21
 INFO [11-03|16:07:12.967] Commit new mining work                   number=122 sealhash=63b5cc..522766 uncles=0 txs=0 gas=0     fees=0       elapsed="134.109µs"
 WARN [11-03|16:14:39.043] Failed to get free disk space            path=/Users/Younggun/Desktop/dev/review_chain/geth err="failed to call Statfs: no such file or directory"
+INFO [11-03|16:59:41.082] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+WARN [11-03|16:59:41.084] Failed to rotate local tx journal        err="open /Users/Younggun/Desktop/dev/review_chain/geth/transactions.rlp.new: no such file or directory"
+INFO [11-03|16:59:41.087] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=3.980ms
+INFO [11-03|17:59:41.108] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-03|17:59:41.110] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-03|17:59:41.113] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=4.458ms
+INFO [11-03|18:59:39.048] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-03|18:59:39.051] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-03|18:59:39.052] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=2.874ms
+INFO [11-03|19:59:41.269] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-03|19:59:41.269] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-03|19:59:41.274] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=4.233ms
+INFO [11-03|20:59:41.087] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-03|20:59:41.092] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-03|20:59:41.093] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=5.016ms
+INFO [11-03|21:59:41.192] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-03|21:59:41.195] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-03|21:59:41.197] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=3.587ms
+INFO [11-03|22:59:41.371] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-03|22:59:41.374] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-03|22:59:41.375] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=2.874ms
+INFO [11-03|23:59:41.483] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-03|23:59:41.486] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-03|23:59:41.488] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=3.324ms
+INFO [11-04|00:59:41.456] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-04|00:59:41.459] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-04|00:59:41.461] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=4.558ms
+INFO [11-04|01:59:41.480] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-04|01:59:41.483] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-04|01:59:41.484] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=3.113ms
+INFO [11-04|02:59:41.522] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-04|02:59:41.524] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-04|02:59:41.527] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=3.843ms
+INFO [11-04|03:59:41.564] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-04|03:59:41.566] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-04|03:59:41.568] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=3.427ms
+INFO [11-04|04:59:41.588] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-04|04:59:41.591] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-04|04:59:41.592] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=2.533ms
+INFO [11-04|05:59:41.647] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-04|05:59:41.650] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-04|05:59:41.651] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=2.768ms
+INFO [11-04|06:59:41.663] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-04|06:59:41.668] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-04|06:59:41.670] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=5.121ms
+INFO [11-04|07:59:41.714] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-04|07:59:41.716] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-04|07:59:41.719] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=4.840ms
+INFO [11-04|12:48:47.464] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-04|12:48:47.466] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-04|12:48:47.469] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=4.137ms
+INFO [11-05|15:21:38.726] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-05|15:21:38.730] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-05|15:21:38.732] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=4.957ms
+INFO [11-05|16:21:38.770] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-05|16:21:38.773] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-05|16:21:38.776] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=4.703ms
+INFO [11-05|17:21:38.797] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=1
+INFO [11-05|17:21:38.801] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [11-05|17:21:38.804] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=5.746ms
+INFO [11-05|18:20:54.273] HTTP server stopped                      endpoint=[::]:8123
+INFO [11-05|18:20:54.275] IPC endpoint closed                      url=/Users/Younggun/Desktop/dev/review_chain/geth.ipc
+INFO [11-05|18:20:54.276] Ethereum protocol stopped 
+INFO [11-05|18:20:54.276] Transaction pool stopped 
+INFO [11-05|18:20:54.290] Writing cached state to disk             block=121 hash=b26455..8f4b21 root=796a38..045a0e
+INFO [11-05|18:20:54.293] Persisted trie from memory database      nodes=4 size=619.00B time=2.719193ms gcnodes=0 gcsize=0.00B gctime=0s livenodes=203 livesize=32.15KiB
+INFO [11-05|18:20:54.293] Writing cached state to disk             block=120 hash=305781..f690a6 root=437438..3b48d4
+INFO [11-05|18:20:54.295] Persisted trie from memory database      nodes=2 size=326.00B time=1.115045ms gcnodes=0 gcsize=0.00B gctime=0s livenodes=201 livesize=31.83KiB
+INFO [11-05|18:20:54.295] Writing snapshot state to disk           root=1bd388..51440d
+INFO [11-05|18:20:54.295] Persisted trie from memory database      nodes=0 size=0.00B   time="1.888µs"  gcnodes=0 gcsize=0.00B gctime=0s livenodes=201 livesize=31.83KiB
+INFO [11-05|18:20:54.316] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=12
+INFO [11-05|18:20:54.323] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=7.403ms
+INFO [11-05|18:20:54.325] Blockchain stopped 
