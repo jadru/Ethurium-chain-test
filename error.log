@@ -1108,3 +1108,81 @@ INFO [11-05|18:20:54.295] Persisted trie from memory database      nodes=0 size=
 INFO [11-05|18:20:54.316] Writing clean trie cache to disk         path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache threads=12
 INFO [11-05|18:20:54.323] Persisted the clean trie cache           path=/Users/Younggun/Desktop/dev/review_chain/geth/triecache elapsed=7.403ms
 INFO [11-05|18:20:54.325] Blockchain stopped 
+INFO [11-10|11:25:11.750] Maximum peer count                       ETH=50 LES=0 total=50
+INFO [11-10|11:25:11.757] Set global gas cap                       cap=50,000,000
+INFO [11-10|11:25:11.757] Allocated trie memory caches             clean=154.00MiB dirty=256.00MiB
+INFO [11-10|11:25:11.758] Allocated cache and file handles         database=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth/chaindata cache=512.00MiB handles=5120
+INFO [11-10|11:25:12.053] Opened ancient database                  database=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth/chaindata/ancient readonly=false
+INFO [11-10|11:25:12.057] Initialised chain configuration          config="{ChainID: 18 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: <nil> Constantinople: <nil> Petersburg: <nil> Istanbul: <nil>, Muir Glacier: <nil>, Berlin: <nil>, London: <nil>, Engine: unknown}"
+INFO [11-10|11:25:12.058] Disk storage enabled for ethash caches   dir=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth/ethash count=3
+INFO [11-10|11:25:12.058] Disk storage enabled for ethash DAGs     dir=/Users/Younggun/Library/Ethash count=2
+INFO [11-10|11:25:12.058] Initialising Ethereum protocol           network=1900 dbversion=8
+INFO [11-10|11:25:12.061] Loaded most recent local header          number=121 hash=b26455..8f4b21 td=16,195,987 age=6d19h18m
+INFO [11-10|11:25:12.062] Loaded most recent local full block      number=121 hash=b26455..8f4b21 td=16,195,987 age=6d19h18m
+INFO [11-10|11:25:12.062] Loaded most recent local fast block      number=121 hash=b26455..8f4b21 td=16,195,987 age=6d19h18m
+INFO [11-10|11:25:12.078] Loaded local transaction journal         transactions=2 dropped=2
+INFO [11-10|11:25:12.078] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [11-10|11:25:12.079] Switch sync mode from fast sync to full sync 
+INFO [11-10|11:25:12.081] Gasprice oracle is ignoring threshold set threshold=2
+WARN [11-10|11:25:12.082] Unclean shutdown detected                booted=2021-11-03T15:53:09+0900 age=6d19h32m
+INFO [11-10|11:25:12.082] Starting peer-to-peer node               instance=Geth/ReviewChainTestNetwork/v1.10.11-stable/darwin-amd64/go1.17.2
+INFO [11-10|11:25:12.193] Mapped network port                      proto=tcp extport=30303 intport=30303 interface=ExtIP(0.0.0.0)
+INFO [11-10|11:25:12.194] New local node record                    seq=1,635,920,294,998 id=85b0c751cf3c0324 ip=<nil> udp=0 tcp=30303
+INFO [11-10|11:25:12.194] Started P2P networking                   self=enode://faed25de073a4fbffb1df3f407e903047d0f2959f5d0a9e4ee037d98b730cdb175cfc5ecfaf430f9cac775823bf8514e7eb5be441bc7f49040c9eb66db6b5308
+INFO [11-10|11:25:12.197] IPC endpoint opened                      url=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth.ipc
+ERROR[11-10|11:25:12.197] Unavailable modules in HTTP API list     unavailable=[db] available="[admin debug web3 eth txpool personal ethash miner net]"
+INFO [11-10|11:25:12.198] HTTP server started                      endpoint=[::]:8123 prefix= cors=* vhosts=localhost
+Fatal: Failed to unlock account 0x11d7a6f23e0c0f54c8ee9490c67cf417d7153ff7 (could not decrypt key with given password)
+INFO [11-10|11:25:46.446] Maximum peer count                       ETH=50 LES=0 total=50
+INFO [11-10|11:25:46.449] Set global gas cap                       cap=50,000,000
+INFO [11-10|11:25:46.449] Allocated trie memory caches             clean=154.00MiB dirty=256.00MiB
+INFO [11-10|11:25:46.449] Allocated cache and file handles         database=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth/chaindata cache=512.00MiB handles=5120
+INFO [11-10|11:25:46.775] Opened ancient database                  database=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth/chaindata/ancient readonly=false
+INFO [11-10|11:25:46.776] Initialised chain configuration          config="{ChainID: 18 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: <nil> Constantinople: <nil> Petersburg: <nil> Istanbul: <nil>, Muir Glacier: <nil>, Berlin: <nil>, London: <nil>, Engine: unknown}"
+INFO [11-10|11:25:46.777] Disk storage enabled for ethash caches   dir=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth/ethash count=3
+INFO [11-10|11:25:46.777] Disk storage enabled for ethash DAGs     dir=/Users/Younggun/Library/Ethash count=2
+INFO [11-10|11:25:46.777] Initialising Ethereum protocol           network=1900 dbversion=8
+INFO [11-10|11:25:46.781] Loaded most recent local header          number=121 hash=b26455..8f4b21 td=16,195,987 age=6d19h18m
+INFO [11-10|11:25:46.781] Loaded most recent local full block      number=121 hash=b26455..8f4b21 td=16,195,987 age=6d19h18m
+INFO [11-10|11:25:46.781] Loaded most recent local fast block      number=121 hash=b26455..8f4b21 td=16,195,987 age=6d19h18m
+INFO [11-10|11:25:46.791] Loaded local transaction journal         transactions=0 dropped=0
+INFO [11-10|11:25:46.791] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [11-10|11:25:46.791] Switch sync mode from fast sync to full sync 
+INFO [11-10|11:25:46.792] Gasprice oracle is ignoring threshold set threshold=2
+WARN [11-10|11:25:46.792] Unclean shutdown detected                booted=2021-11-03T15:53:09+0900 age=6d19h32m
+WARN [11-10|11:25:46.792] Unclean shutdown detected                booted=2021-11-10T11:25:12+0900 age=34s
+INFO [11-10|11:25:46.792] Starting peer-to-peer node               instance=Geth/ReviewChainTestNetwork/v1.10.11-stable/darwin-amd64/go1.17.2
+INFO [11-10|11:25:46.901] Mapped network port                      proto=tcp extport=30303 intport=30303 interface=ExtIP(0.0.0.0)
+INFO [11-10|11:25:46.902] New local node record                    seq=1,635,920,294,999 id=85b0c751cf3c0324 ip=<nil> udp=0 tcp=30303
+INFO [11-10|11:25:46.902] Started P2P networking                   self=enode://faed25de073a4fbffb1df3f407e903047d0f2959f5d0a9e4ee037d98b730cdb175cfc5ecfaf430f9cac775823bf8514e7eb5be441bc7f49040c9eb66db6b5308
+INFO [11-10|11:25:46.903] IPC endpoint opened                      url=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth.ipc
+ERROR[11-10|11:25:46.903] Unavailable modules in HTTP API list     unavailable=[db] available="[admin debug web3 eth txpool personal ethash miner net]"
+INFO [11-10|11:25:46.903] HTTP server started                      endpoint=[::]:8123 prefix= cors=* vhosts=localhost
+INFO [11-10|11:25:46.987] Etherbase automatically configured       address=0x11d7A6F23E0c0F54C8Ee9490C67CF417d7153fF7
+INFO [11-26|13:47:17.023] Maximum peer count                       ETH=50 LES=0 total=50
+INFO [11-26|13:47:17.031] Set global gas cap                       cap=50,000,000
+INFO [11-26|13:47:17.031] Allocated trie memory caches             clean=154.00MiB dirty=256.00MiB
+INFO [11-26|13:47:17.033] Allocated cache and file handles         database=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth/chaindata cache=512.00MiB handles=5120
+INFO [11-26|13:47:17.216] Opened ancient database                  database=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth/chaindata/ancient readonly=false
+INFO [11-26|13:47:17.221] Initialised chain configuration          config="{ChainID: 18 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: <nil> Constantinople: <nil> Petersburg: <nil> Istanbul: <nil>, Muir Glacier: <nil>, Berlin: <nil>, London: <nil>, Arrow Glacier: <nil>, Engine: unknown}"
+INFO [11-26|13:47:17.222] Disk storage enabled for ethash caches   dir=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth/ethash count=3
+INFO [11-26|13:47:17.222] Disk storage enabled for ethash DAGs     dir=/Users/Younggun/Library/Ethash count=2
+INFO [11-26|13:47:17.222] Initialising Ethereum protocol           network=1900 dbversion=8
+INFO [11-26|13:47:17.226] Loaded most recent local header          number=121 hash=b26455..8f4b21 td=16,195,987 age=3w1d21h
+INFO [11-26|13:47:17.227] Loaded most recent local full block      number=121 hash=b26455..8f4b21 td=16,195,987 age=3w1d21h
+INFO [11-26|13:47:17.227] Loaded most recent local fast block      number=121 hash=b26455..8f4b21 td=16,195,987 age=3w1d21h
+INFO [11-26|13:47:17.241] Loaded local transaction journal         transactions=0 dropped=0
+INFO [11-26|13:47:17.241] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [11-26|13:47:17.242] Switch sync mode from fast sync to full sync 
+INFO [11-26|13:47:17.244] Gasprice oracle is ignoring threshold set threshold=2
+WARN [11-26|13:47:17.246] Unclean shutdown detected                booted=2021-11-03T15:53:09+0900 age=3w1d21h
+WARN [11-26|13:47:17.246] Unclean shutdown detected                booted=2021-11-10T11:25:12+0900 age=2w2d2h
+WARN [11-26|13:47:17.246] Unclean shutdown detected                booted=2021-11-10T11:25:46+0900 age=2w2d2h
+INFO [11-26|13:47:17.246] Starting peer-to-peer node               instance=Geth/ReviewChainTestNetwork/v1.10.12-stable/darwin-amd64/go1.17.2
+INFO [11-26|13:47:17.383] Mapped network port                      proto=tcp extport=30303 intport=30303 interface=ExtIP(0.0.0.0)
+INFO [11-26|13:47:17.384] New local node record                    seq=1,635,920,295,000 id=85b0c751cf3c0324 ip=<nil> udp=0 tcp=30303
+INFO [11-26|13:47:17.384] Started P2P networking                   self=enode://faed25de073a4fbffb1df3f407e903047d0f2959f5d0a9e4ee037d98b730cdb175cfc5ecfaf430f9cac775823bf8514e7eb5be441bc7f49040c9eb66db6b5308
+INFO [11-26|13:47:17.412] IPC endpoint opened                      url=/Users/Younggun/Desktop/dev/Ethurium-chain-test/geth.ipc
+ERROR[11-26|13:47:17.431] Unavailable modules in HTTP API list     unavailable=[db] available="[admin debug web3 eth txpool personal ethash miner net]"
+INFO [11-26|13:47:17.433] HTTP server started                      endpoint=[::]:8123 prefix= cors=* vhosts=localhost
+INFO [11-26|13:47:17.541] Etherbase automatically configured       address=0x11d7A6F23E0c0F54C8Ee9490C67CF417d7153fF7
